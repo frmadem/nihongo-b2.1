@@ -1,4 +1,4 @@
-# Late Motiv
+# Late Motiv (nihongo)
 
 This image is designed for specific use with Docsify.
 

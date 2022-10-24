@@ -1,6 +1,6 @@
 # Preamble
 
-This project is intended to provide a simple tool for creating courses.
+This project is intended to provide a simple tool for creating training courses.
 
 # USE
 

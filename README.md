@@ -6,13 +6,12 @@ Its use is limited to the documentary composition of teaching.
 
 # Preamble
 
-This project is intended to provide a simple tool for creating Prefapp internal training courses or just manuals.
+This project is intended to provide a simple tool for creating internal training courses or just manuals.
 
 # Source Dockerfile
 
 ``` yml
 FROM node:alpine
-MAINTAINER "Gustavo Esteban Borragán <gustavo.borragan@prefapp.es>"
 
 LABEL docker_docsify_version_major="1" \
       docker_docsify_version_minor="0" \
